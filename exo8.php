@@ -2,7 +2,7 @@
 $max = 0;
 $i=0;
 
-for($i=0; $i < 2 ; $i++)
+for($i=0; $i < 20 ; $i++)
 {
     
     $b = (int) readline("entrez un nombre   \n ".($i+1));
